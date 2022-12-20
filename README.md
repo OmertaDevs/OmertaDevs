@@ -9,7 +9,7 @@ After years of being fascinated by the world of tech as an outsider I decided to
 * 🌍  I'm based in Newcastle UK
 * 🧠  I'm learning Redux and Firebase
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I am currently learning Japanese as a hobby and looking to take my first NLPT exam in 2023!
+* ⚡  I am currently learning Japanese as a hobby and looking to take my first JLPT exam in 2023!
 
 ### Skills
 
