@@ -7,7 +7,7 @@ Full-stack Developer
 After years of being fascinated by the world of tech as an outsider I decided to leap headfirst into a School of Code bootcamp! My background is primarily in sports coaching and over the last few years I moved into the field of Esports where I worked at a professional level as a coach, analyst and manager for multiple top tier teams including Team SECRET, Wylde and MNM Gaming. Since joining School of Code I have been learning how to plan, design and build functional webapps using a variety of different technologies.
 
 * 🌍  I'm based in Newcastle UK
-* 🧠  I'm learning Redux and Firebase
+* 🧠  I'm learning Redux and Vue
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I am currently learning Japanese as a hobby and looking to take my first JLPT exam in 2023!
 
